@@ -6,6 +6,4 @@ load_dotenv()
 
 BOT_TOKEN = getenv('BOT_TOKEN')
 MONGO_URI = getenv('MONGO_URI')
-SUDO_USERS = list(
-    map(int, getenv("SUDO_USERS", 6399386263).split())
-) 
+SUDO_USERS = int(getenv("SUDO_USERS", 6399386263))
