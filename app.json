@@ -1,8 +1,8 @@
 {
-  "name": "Crocodile Game",
+  "name": "Cutie Game",
   "description": "A Telegram word-based game bot.",
   "keywords": ["telegram", "python"],
-  "repository": "https://github.com/PatheticProgrammers/CrocodileGame",
+  "repository": "https://github.com/TheChampu/CutieGame",
   "env": {
     "BOT_TOKEN": {
       "description": "A bot token from @BotFather.",

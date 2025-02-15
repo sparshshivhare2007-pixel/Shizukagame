@@ -1,4 +1,10 @@
-dnspython
+Flask
 pymongo
-python-dotenv
-python-telegram-bot
+pyrogram
+requests
+pycryptodome
+TgCrypto
+ffprobe
+httpx
+beautifulsoup4
+validators
