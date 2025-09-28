@@ -11,10 +11,10 @@ from flask import Flask
 
 # Bot details from environment variables
 BOT_TOKEN = os.getenv("BOT_TOKEN")
-API_HASH = "28e79037f0b334ef0503466c53f08af5"
-API_ID = "29893020"
+API_HASH = "f10822a551f38b26ee1179e1a6515e01"
+API_ID = "26407665"
 
-ADMIN_ID = int(os.getenv("ADMIN_ID", 6399386263))  # Admin ID for new user notifications
+ADMIN_ID = int(os.getenv("ADMIN_ID", 8158429107))  # Admin ID for new user notifications
 
 # Flask app for monitoring
 flask_app = Flask(__name__)
